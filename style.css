@@ -1,0 +1,19 @@
+  
+/* styling the navbar*/
+a.navbar-brand{
+    margin-left: 5px;
+    padding: 5px;
+    background-color: darkseagreen;
+    font-family: Arial;
+    font-size: 25px;
+}
+.navbar{
+    padding-top:0px;
+    padding-bottom: 0px;
+    padding-right:40px;
+}
+
+.nav-item.dropdown.show {
+    margin-right: 5px;
+    background-color: rgb(219, 193, 248);
+}
